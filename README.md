@@ -3,4 +3,6 @@
 use this to get fortnite 2S in ur website! 
 ```html
 https://github.com/DoraBans/Fortnite-2D.git
-``
+```
+# FN_Assets_send_dc! 
+## Send me Assets that I add into my Fortnite 2D!
